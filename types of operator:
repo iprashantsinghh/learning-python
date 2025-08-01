@@ -1,0 +1,5 @@
+ assignment operator: = , -= , += , /= , %= , //= , **= 
+ arithmatic operator: + , - , / , * , // , ** , %
+ relational operator: == , != , < , > , <= , >=
+ logical operator: not , or , and
+examples you will find in further notes
