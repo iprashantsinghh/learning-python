@@ -1,0 +1,60 @@
+"""
+#print("my name is prashant")
+#print("hello world")
+#name = "prashant"
+#print(name)
+
+you = None
+me = False
+age = 21
+print ( type(age) )
+print (type(you))
+
+#arithmatic operators 
+a = 10
+b = 5
+print ( a + b)
+print(a - b)
+print(a*b)
+print(a/b)
+print (a%b)       
+
+#relational operator 
+a = 32
+b = 43
+print (a==b)
+print (a!=b)
+print (a>b)
+print (a<b)
+print (a<=b)
+print (a>=b)
+
+#assignment operators
+hero = 5
+hero += 10
+print (hero) 
+print ("hello world")
+s = 12
+s -= 1
+print (s)
+a = 10
+a **= 5
+print (a)
+
+
+#logical operators
+member1 = True
+member2 = False
+print( "NOT operator:" , not member2 )
+print ("and operator:" , member1 and member2)
+print("or operator:" , member1 or member2 )
+
+
+name = input ("enter your name:" )
+age = input ("enter your age:")
+password = input ("enter your password:")
+print (name)
+print (age)
+print (password)
+
+"""
